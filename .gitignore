@@ -1,0 +1,9 @@
+.idea
+.ipynb_checkpoints
+myvenv
+venv
+website
+app.py
+model.pkl
+text_preprocess.pkl
+tfidf_vectorizer.pkl
